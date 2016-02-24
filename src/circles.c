@@ -1,9 +1,3 @@
-//----------------------------------------------------------------------------------
-//
-// Project 6.4 from "Programming Pebble in C"
-// 
-// Rob Spiess, February 2016
-
 #include <pebble.h>
 
 // Needed for Pebble graphics
